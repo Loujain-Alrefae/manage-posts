@@ -106,6 +106,34 @@ header p {
   display: flex;
 }
 
+/*
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 40px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  table-layout: fixed;
+}
+
+th, td {
+  padding: 12px;
+  text-align: start;
+  font-size: 14px;
+  font-weight: 400;
+  border-bottom: 1px solid #ddd;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  white-space: normal;
+}
+
+td:nth-child(2),
+td:nth-child(3) {
+  max-width: 200px;
+}
+*/
+
 table {
   width: 100%;
   border-collapse: collapse;
